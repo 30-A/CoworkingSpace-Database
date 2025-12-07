@@ -1,0 +1,8 @@
+plan_id,plan_name,price,duration_days
+1,Day Pass,25.0,1
+2,Weekly Pass,100.0,7
+3,Monthly Pass,300.0,30
+4,Annual Pass,3200.0,365
+5,Monthly ALL Access,800.0,30
+6,Annual ALL Access,8500.0,365
+7,Event Pass,500.0,1
